@@ -25,4 +25,5 @@ Git has a mutable index called stage.\
 \f0\fs24 \cf6 \cb7 \expnd0\expndtw0\kerning0
 \outl0\strokewidth0 \strokec6 Creating a 
 \f1\b \cf4 \strokec4 new
-\f0\b0 \cf6 \strokec6  branch is quick.}
+\f0\b0 \cf6 \strokec6  branch is quick & simple.\
+}
