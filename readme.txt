@@ -2,9 +2,9 @@
 {\fonttbl\f0\fmodern\fcharset0 Courier;\f1\fmodern\fcharset0 Courier-Bold;\f2\fnil\fcharset0 HelveticaNeue;
 }
 {\colortbl;\red255\green255\blue255;\red52\green52\blue52;\red249\green249\blue249;\red38\green38\blue38;
-\red0\green0\blue0;\red52\green52\blue52;\red249\green249\blue249;}
+\red0\green0\blue0;}
 {\*\expandedcolortbl;;\cssrgb\c26667\c26667\c26667;\cssrgb\c98039\c98039\c98039;\cssrgb\c20000\c20000\c20000;
-\csgray\c0;\cssrgb\c26667\c26667\c26667;\cssrgb\c98039\c98039\c98039;}
+\csgray\c0;}
 \paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
 \deftab720
 \pard\pardeftab720\sl360\partightenfactor0
@@ -22,12 +22,11 @@ Git has a mutable index called stage.\
 \f2\fs26 \cf5 \cb1 \kerning1\expnd0\expndtw0 Fanzhengjia927315\
 \pard\pardeftab720\sl360\partightenfactor0
 
-\f0\fs24 \cf6 \cb7 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec6 Creating a 
-\f1\b \cf4 \strokec4 new
-\f0\b0 \cf6 \strokec6  branch is quick 
-\f1\b \cf4 \strokec4 and
-\f0\b0 \cf6 \strokec6  simple.\
-\pard\pardeftab720\sl360\partightenfactor0
-\cf2 \cb3 \outl0\strokewidth0 \
+\f0\fs24 \cf2 \cb3 \expnd0\expndtw0\kerning0
+Creating a 
+\f1\b \cf4 \cb3 new
+\f0\b0 \cf2 \cb3  branch is quick 
+\f1\b \cf4 \cb3 and
+\f0\b0 \cf2 \cb3  simple.adsads\
+\
 }
