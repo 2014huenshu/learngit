@@ -11,11 +11,11 @@
 
 \f0\fs24 \cf2 \cb3 \expnd0\expndtw0\kerning0
 Git 
-\f1\b \cf4 is
-\f0\b0 \cf2  a distributed version control system.\
+\f1\b \cf4 \cb3 is
+\f0\b0 \cf2 \cb3  a distributed version control system.\
 Git 
-\f1\b \cf4 is
-\f0\b0 \cf2  free software distributed under the GPL.\
+\f1\b \cf4 \cb3 is
+\f0\b0 \cf2 \cb3  free software distributed under the GPL.\
 Git has a mutable index called stage.\
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\sl-380\pardirnatural\partightenfactor0
 
@@ -28,5 +28,5 @@ Creating a
 \f0\b0 \cf2 \cb3  branch is quick 
 \f1\b \cf4 \cb3 and
 \f0\b0 \cf2 \cb3  simple.adsads\
-\
+old\
 }
