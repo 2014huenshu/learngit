@@ -28,5 +28,4 @@ Creating a
 \f0\b0 \cf2 \cb3  branch is quick 
 \f1\b \cf4 \cb3 and
 \f0\b0 \cf2 \cb3  simple.adsads\
-old\
-}
+edit bug finish}
